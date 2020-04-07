@@ -33,6 +33,6 @@ If you are running out of time and have not finished a task, make sure your code
 ### Submission
 
 To begin, create a Code Sandbox account, clone this repo and code away!
-To start a local development server, run "npm start"
+To start a local development server, run "npm start". Otherwise, you may also just develop entirely on Code Sandbox.
 
-To submit, commit and push your changes to your repository. Then, open Code Sandbox and create a new Sandbox
+To submit, commit and push your changes to your repository. Then, open Code Sandbox and import your repo to a new Sandbox.
